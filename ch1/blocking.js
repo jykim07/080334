@@ -4,4 +4,4 @@ function longRunningTask() {
 }
 console.log('시작');
 longRunningTask();
-console.log('다음 작업2');
+console.log('다음 작업3');
